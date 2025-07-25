@@ -1,0 +1,2 @@
+# Nintendo-Maps
+Nintendo Maps
