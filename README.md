@@ -1,4 +1,4 @@
-# Nintendo-Maps
+# Nintendo-Maps (New 3DS)
 A simple game where you can run around and explore cool places.
 
 
@@ -36,11 +36,6 @@ CONTROLS:
 
 
 This is still very much in development, so expect bugs. That said, I would love any feedback and will do my best to incorporate it all into the game.
-
-
-
-**Only on New 3DS.**
-
 
 
 Credits:
