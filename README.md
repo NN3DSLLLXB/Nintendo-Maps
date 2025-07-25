@@ -20,7 +20,7 @@ Please suggest more!
 
 CONTROLS:
 
-+ + Control Pad: Navigate Menu
++ D-Pad: Navigate Menu
 
 + Circle Pad: Move
 
