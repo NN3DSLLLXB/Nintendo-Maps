@@ -1,6 +1,7 @@
 # Nintendo-Maps
 A simple game where you can run around and explore cool places.
 
+
 There are 5 locations:
 
 -Mt. Everest.
@@ -36,7 +37,9 @@ Start: Return to Menu
 
 This is still very much in development, so expect bugs. That said, I would love any feedback and will do my best to incorporate it all into the game.
 
+
 **Only on New 3DS.**
+
 
 Credits:
 
